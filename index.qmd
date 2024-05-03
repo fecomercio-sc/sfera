@@ -1,0 +1,21 @@
+---
+title: "Painéis - Fecomércio SC"
+lang: pt
+listing:
+  contents: paineis
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Os painéis da Fecomércio SC foram desenvolvidos para acompanhar a evolução recente da economia catarinense e as perspectivas para os próximos meses, com foco nos setores de comércio, serviços e turismo.
+
+Estão disponíveis os principais dados públicos relacionados ao mercado de trabalho, comércio exterior, conjuntura econômica e resultados de pesquisas primárias, apresentados de forma visual em gráficos, tabelas e mapas.
+
+Com funcionalidades modernas e intuitivas, os painéis apresentam diversos dados reunidos em único lugar para o monitoramento ágil e interativo. Escolha abaixo um assunto para começar a navegar.
+
+

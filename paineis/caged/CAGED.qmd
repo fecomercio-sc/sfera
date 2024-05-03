@@ -1,0 +1,71 @@
+---
+title: "CAGED"
+description: "Cadastro Geral dos Empregados e Desempregados"
+image: caged.jpg
+listing: 
+  contents: "CAGED.qmd"
+execute: 
+  warning: false
+sidebar: false
+page-navigation: true
+---
+
+------------------------------------------------------------------------
+
+O painel do CAGED da Fecomércio SC apresenta dados de admissões, desligamentos e saldo de empregos no mercado de trabalho em Santa Catarina e no Brasil, dando destaque ao setor de comércio e de serviços.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiNWNiMWJmZjktMjI5Zi00ODNmLWE5NmMtYjJhOGQ5MGJiYTZlIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::
+
+Há duas grandes visualizações no painel: geração de empregos e perfil do trabalhador.
+
+Em geração de empregos, são destacados os dados do comércio e dos serviços. É possível filtrar dados desde janeiro de 2020, as mesorregiões, as microrregiões e os municípios de Santa Catarina.
+
+Em perfil do trabalhador, os dados apresentados são de todos os setores econômicos de Santa Catarina. Para visualizar separadamente, é necessário aplicar o filtro setor, selecionando o desejado. O filtro de seleção 'período' permite acessar dados desde janeiro de 2020 para as mesorregiões e municípios do estado.
+
+Alguns indicadores disponíveis em cada visualização:
+
+::: panel-tabset
+## Geração de empregos
+
+|                                                                           |
+|------------------------------------------------------------------------|
+| Total de admissões, desligamentos e saldo - BR e SC                       |
+| Saldo mensal de empregos para todos os setores - SC                       |
+| Saldo mensal de empregos para o comércio e serviços - SC                  |
+| Total de admissões, desligamentos e saldo para o comércio e serviços - SC |
+| Saldo de empregos por subclasse do comércio - SC                          |
+| Saldo de empregos por subclasse dos serviços - SC                         |
+
+## Perfil do trabalhador
+
+|                                           |
+|-------------------------------------------|
+| Total de admissões, desligamentos e saldo |
+| Saldo de empregos por raça                |
+| Saldo de empregos por faixa etária        |
+| Saldo mensal de empregos                  |
+| Saldo da movimentação por sexo            |
+| Saldo de empregos por grau de instrução   |
+:::
+
+::: {.callout-warning appearance="minimal" icon="false"}
+[Assista ao vídeo](https://youtu.be/oJLv49qOXLM){target="_blank"} que demonstra o uso do painel de dados do CAGED da Fecomércio SC.
+
+Os relatórios que tratam desse tema você encontra [aqui](https://www.fecomercio-sc.com.br/arquivos-pesquisas/conjunturais/){target="_blank"}.
+:::
+
+## Glossário
+
+Admissões: é a quantidade de pessoas contratadas no período. Os tipos são: primeiro emprego; reemprego e transferência.
+
+Desligamentos: é a quantidade de trabalhadores que deixaram seus empregos em um determinado período de tempo. Os desligamentos incluem: desligamento por demissão com e sem justa causa; desligamento a pedido, por morte; por aposentadoria e por transferência.
+
+Saldo, movimentação ou geração de empregos: diferença entre as admissões e os desligamentos.
+
+------------------------------------------------------------------------
+
+Fonte dos dados: [http://pdet.mte.gov.br/microdados-rais-e-caged](http://pdet.mte.gov.br/microdados-rais-e-caged){.uri target="_blank"}.
+
+------------------------------------------------------------------------

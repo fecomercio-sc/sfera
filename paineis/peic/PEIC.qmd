@@ -1,0 +1,47 @@
+---
+title: "PEIC"
+description: "Pesquisa de Endividamento e Inadimplência das Famílias Catarinenses"
+image: peic.jpg
+listing: 
+  contents: "PEIC.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+O painel da PEIC da Fecomércio SC apresenta dados referentes às exportações, importações e balança comercial catarinense.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiNTIxZDg0M2UtYzUyZC00NjRlLTk5YWYtODViYmY5YzU1NDcxIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::
+
+::: panel-tabset
+## PEIC - SC e BR
+
+|                                                    |
+|----------------------------------------------------|
+| Total de famílias endividadas                      |
+| Famílias endividadas (até 10 salários mínimos)     |
+| Famílias endividadas (mais de 10 salários mínimos) |
+
+## Endividamento
+
+|                            |
+|----------------------------|
+| Percepção do endividamento |
+| Tipos de dívidas           |
+| Comprometimento da renda   |
+
+## Componentes do endividamento
+
+|                                            |
+|--------------------------------------------|
+| Percepção do nível de endividamento        |
+| Tipo de endividamento                      |
+| Tempo de comprometimento com a dívida      |
+| Parcela da renda comprometida com a dívida |
+
+## Inadimplência
+:::
+
+## Glossário

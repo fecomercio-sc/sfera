@@ -1,0 +1,16 @@
+---
+title: "PMS"
+description: "Pesquisa Mensal de Serviços"
+image: pms.jpg
+listing: 
+  contents: "PMS.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+O painel da PMS da Fecomércio SC apresenta dados referentes às exportações, importações e balança comercial catarinense.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiY2EwNWM2NTEtZjU5ZS00NTk2LTgzZjQtZDM0YTM4NGVmYjU0IiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::

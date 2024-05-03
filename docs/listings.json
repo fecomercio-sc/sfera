@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/paineis/caged/CAGED.html",
+      "/paineis/comex/COMEX.html",
+      "/paineis/icec/ICEC.html",
+      "/paineis/icf/ICF.html",
+      "/paineis/ipca/PRECOS.html",
+      "/paineis/peic/PEIC.html",
+      "/paineis/pmc/pmc.html",
+      "/paineis/pms/PMS.html",
+      "/paineis/rais/RAIS.html",
+      "/paineis/selic/SELIC.html"
+    ]
+  }
+]

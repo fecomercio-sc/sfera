@@ -1,0 +1,86 @@
+---
+title: "ICEC"
+description: "Índice de Confiança do Empresário Catarinense"
+image: icec.jpg
+listing: 
+  contents: "ICEC.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+------------------------------------------------------------------------
+
+O ICEC mede a percepção dos empresários em relação às condições atuais, as suas expectativas futuras e o seu nível de investimento. As informações fornecem um panorama da situação dos segmentos do varejo.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiYTg3NzE3YzQtMTZlYy00YTJlLWIxOWQtMzc4Zjk2NzA2MjMwIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::
+
+Os dados estão em três visualizações: ICEC nacional, Panorama SC e Componentes SC. Cada visualização contém um conjunto de indicadores.
+
+::: panel-tabset
+## ICEC Nacional
+
+|                                   |
+|-----------------------------------|
+| Top 20 - ICEC Estados             |
+| ICEC Estados - índice (em pontos) |
+| ICEC Estados - variação mensal    |
+| ICEC Estados - variação anual     |
+| ICEC - índice (em pontos)         |
+
+## Panorama SC
+
+|                                                    |
+|----------------------------------------------------|
+| ICEC                                               |
+| Confiança atual na economia                        |
+| Confiança atual nas empresas                       |
+| Confiança atual no setor (comércio)                |
+| Nível de expectativa do empresário                 |
+| Nível de perspectiva do investimento do empresário |
+
+## Componentes SC
+
+|                                 |
+|---------------------------------|
+| Variação mensal do índice       |
+| Variação mensal dos componentes |
+| Série histórica                 |
+:::
+
+::: {.callout-warning appearance="minimal" icon="false"}
+[Assista ao vídeo](https://youtu.be/oJLv49qOXLM){target="_blank"} que demonstra o uso do painel de dados do ICEC da Fecomércio SC.
+
+Os relatórios que tratam desse tema você encontra [aqui](https://www.fecomercio-sc.com.br/arquivos-pesquisas/conjunturais/){target="_blank"}.
+:::
+
+## Entendendo o índice
+
+O ICEC é composto por três índices e seus respectivos componentes:
+
+1.  Índice de Condições Atuais do Empresário do Comércio (ICAEC)
+    -   Condições atuais da economia
+
+    -   Condições atuais do comércio
+
+    -   Condições atuais da empresa
+2.  Índice de Expectativas do Empresário do Comércio (IEEC)
+    -   Expectativas para a economia brasileira
+
+    -   Expectativas para o comércio
+
+    -   Expectativas para a empresa
+3.  Índice de Investimento de Empresário do Comérco (IIEC)
+    -   Expectativa de contratação de funcionários
+
+    -   Nível de investimento da empresa
+
+    -   Situação atual dos estoques
+
+Os índices apresentam dispersões entre zero e 200 pontos, sendo 100 pontos o nível base de satisfação.
+
+## Fonte
+
+O ICEC é pesquisado mensalmente pela Confederação Nacional do Comércio de Bens, Serviços e Turismo ([CNC](https://portaldocomercio.org.br/){target="_blank"}). A amostra é composta por aproximadamente seis mil empresas situadas em todas as capitais do país.

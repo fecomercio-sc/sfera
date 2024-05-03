@@ -1,0 +1,63 @@
+---
+title: "Índices de Preços"
+description: "INPC, IPCA e IGP-M"
+image: precos.jpg
+listing: 
+  contents: "PRECOS.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+O painel de Índice de Preços da Fecomércio SC apresenta dados do INPC, IPCA e IGP-M.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiN2QxYTU2M2ItZjA5YS00ZGQwLTkwNjctYzFmZTJiMDY0NzZlIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::
+
+::: panel-tabset
+## Panorama de Preços
+
+|                                                               |
+|---------------------------------------------------------------|
+| INPC - variação acumulada em 12 meses                         |
+| IPCA - variação acumulada em 12 meses                         |
+| Meta do IPCA                                                  |
+| Índice de difusão IPCA                                        |
+| IGP-M - variação acumulada em 12 meses                        |
+| Meta da SELIC                                                 |
+| IPCA nas regiões brasileiras - variação acumulada em 12 meses |
+| Série histórica - IPCA, meta SELIC e difusão IPCA             |
+
+## Grupo de Produtos
+
+|                           |
+|---------------------------|
+| Alimentação e bebidas     |
+| Artigos de residência     |
+| Comunicação               |
+| Despesas pessoais         |
+| Educação                  |
+| Habitação                 |
+| Saúde e cuidados pessoais |
+| Transportes               |
+| Vestuário                 |
+
+## Evolução do Grupo de Produtos
+
+|                                |
+|--------------------------------|
+| Variação mensal                |
+| Variação acumulada no ano      |
+| Variação acumulada em 12 meses |
+
+## Orçamento Familiar
+
+|                                                                         |
+|------------------------------------------------------------------------|
+| IPCA dos subitens                                                       |
+| Série histórica do grupo de produtos nas despesas do orçamento familiar |
+| Top 3 - grupos de produtos nas despesas do orçamento familiar           |
+:::
+
+## Glossário

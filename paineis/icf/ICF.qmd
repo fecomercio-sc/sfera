@@ -1,0 +1,62 @@
+---
+title: "ICF"
+description: "Índice de Confiança das Famílias"
+image: icf.jpg
+listing: 
+  contents: "ICF.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+O ICF mede a intenção de consumo das famílias catarinenses.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aq](https://app.powerbi.com/view?r=eyJrIjoiMTMyNTFkNDAtNjRmMC00NzdmLTk4NmYtZjVkZDE5Y2YxZTBkIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}[u](https://app.powerbi.com/view?r=eyJrIjoiYTg3NzE3YzQtMTZlYy00YTJlLWIxOWQtMzc4Zjk2NzA2MjMwIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}[i](https://app.powerbi.com/view?r=eyJrIjoiNzNkOWNiZDUtOTEzYS00NDRiLWE4ZmItODA3N2I0MjE5ZmYxIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::
+
+Os dados estão em três visualizações: ICF nacional, Panorama SC e Componentes SC. Cada visualização contém um conjunto de indicadores.
+
+::: panel-tabset
+## ICF Nacional
+
+|                                 |
+|---------------------------------|
+| Top 20 - ICF (pontos)           |
+| Índice geral - ICF (pontos)     |
+| Variação mês a mês              |
+| Variação ano anterior           |
+| Série histórica do índice geral |
+
+## ICF Panorama SC
+
+|                 |
+|-----------------|
+| ICF - Pontuação |
+|                 |
+|                 |
+|                 |
+|                 |
+
+## ICF Componentes SC
+
+|                                    |
+|------------------------------------|
+| Compra a prazo (acesso ao crédito) |
+| Emprego atual                      |
+| Momento para duráveis              |
+| Nível de consumo atual             |
+| Perspectiva de consumo             |
+| Perspectiva profissional           |
+| Renda atual                        |
+:::
+
+::: {.callout-warning appearance="minimal" icon="false"}
+[Assista ao vídeo](https://youtu.be/oJLv49qOXLM){target="_blank"} que demonstra o uso do painel de dados do ICEC da Fecomércio SC.
+
+Os relatórios que tratam desse tema você encontra [aqui](https://www.fecomercio-sc.com.br/arquivos-pesquisas/conjunturais/){target="_blank"}.
+:::
+
+## Fonte
+
+O ICF é pesquisado mensalmente pela Confederação Nacional do Comércio de Bens, Serviços e Turismo ([CNC](https://portaldocomercio.org.br/){target="_blank"}). A pesquisa contempla 18 mil questionários com dados de consumidores coletados em todas as Unidades Federativas.

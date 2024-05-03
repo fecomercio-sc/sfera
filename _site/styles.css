@@ -1,0 +1,6 @@
+/* Custom CSS to change the size of the logo */
+.navbar-brand img {
+    max-height: 100px; /* Adjust the value to change the height of the logo */
+    /* You can also use 'width' property to adjust the width if needed */
+}
+

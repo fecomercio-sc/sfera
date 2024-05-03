@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e10f1198-5798-4022-a4b8-4fbb7a866042
+      url: 'https://fecomercio-sc.quarto.pub/sfera'

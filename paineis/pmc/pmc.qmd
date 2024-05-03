@@ -1,0 +1,44 @@
+---
+title: "PMC"
+description: "Pesquisa Mensal do Comércio"
+image: pmc.jpg
+listing: 
+  contents: "PMC.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+O painel da PMC da Fecomércio SC apresenta dados referentes às exportações, importações e balança comercial catarinense.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiM2YzNGY5NGUtZDFhOC00OGRiLWEyOGEtOTcwM2YyZmEyMzhjIiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::
+
+::: panel-tabset
+## Panorama do Comércio
+
+|                              |
+|------------------------------|
+| Variação do volume de vendas |
+| Volume de vendas             |
+| Variação da receita nominal  |
+| Receita nominal              |
+
+## Panorama dos Segmentos
+
+|                                |
+|--------------------------------|
+| Número-índice (2022=100)       |
+| Variação mensal                |
+| Variação acumulada no ano      |
+| Variação acumulada em 12 meses |
+
+## Evolução dos Segmentos
+
+|                                                                    |
+|--------------------------------------------------------------------|
+| Índice de receita nominal de vendas no comércio varejista ampliado |
+:::
+
+## Glossário

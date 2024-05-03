@@ -1,0 +1,57 @@
+[
+  {
+    "listing": "/paineis/selic/SELIC.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/pms/PMS.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/peic/PEIC.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/icf/ICF.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/comex/COMEX.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/paineis/caged/CAGED.html",
+      "/paineis/comex/COMEX.html",
+      "/paineis/icec/ICEC.html",
+      "/paineis/icf/ICF.html",
+      "/paineis/ipca/PRECOS.html",
+      "/paineis/peic/PEIC.html",
+      "/paineis/pmc/pmc.html",
+      "/paineis/pms/PMS.html",
+      "/paineis/rais/RAIS.html",
+      "/paineis/selic/SELIC.html"
+    ]
+  },
+  {
+    "listing": "/paineis/caged/CAGED.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/icec/ICEC.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/ipca/PRECOS.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/pmc/pmc.html",
+    "items": []
+  },
+  {
+    "listing": "/paineis/rais/RAIS.html",
+    "items": []
+  }
+]

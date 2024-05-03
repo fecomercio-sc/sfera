@@ -1,0 +1,16 @@
+---
+title: "SELIC"
+description: "Taxa Básica de Juros da Economia"
+image: selic.jpg
+listing: 
+  contents: "SELIC.qmd"
+execute: 
+  warning: false
+sidebar: false
+---
+
+O painel da SELIC da Fecomércio SC apresenta dados referentes às exportações, importações e balança comercial catarinense.
+
+::: {.callout-warning appearance="minimal" icon="false"}
+Acesse o painel clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiNjVmZDliNDctNWY2OS00ZTA3LWI1M2QtYjVhYjAyYWQxZjU4IiwidCI6ImY1ZGQ2M2EwLTllMWYtNDAxZi1hMjAxLTZkMzZiYzBhYWJkMSJ9){target="_blank"}.
+:::

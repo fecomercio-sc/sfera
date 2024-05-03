@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+lan: pt
+
+website:
+  page-footer: 
+    center: "Todos os Direitos Reservados. FECOMÉRCIO SC, 2024."
+  google-analytics: "G-5R9BHY2QR7"
+  title: ""
+  navbar:
+    search: false
+    right:
+      - text: "FECOMÉRCIO SC"
+        href: "https://www.fecomercio-sc.com.br/"
+        target: "_blank"
+      - icon: instagram
+        href: https://www.instagram.com/fecomercio.sc/
+        target: "_blank"
+      - icon: linkedin
+        href: https://www.linkedin.com/company/fecomerciosc/
+        target: "_blank"
+    logo: "sfera.png"
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
